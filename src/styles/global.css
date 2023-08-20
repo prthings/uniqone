@@ -43,7 +43,7 @@
     }
 
     /* dark theme */
-    .theme-sleek.dark {
+    .uniqone.dark {
         /* Tailwind yellow-400 #facc15 */
         --color-primary-main: 125 180 64;
 
@@ -203,11 +203,6 @@
 
     .animated-link.show:after {
         transform: translateZ(0) scale(1);
-    }
-
-    *::selection{
-        color: white;
-        background-color: rgb(56, 95, 82);
     }
 
     /* ------ REUSABLE UTILS - END ------ */
