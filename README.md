@@ -1,12 +1,8 @@
 # UniqOne
 
-Theme: **sleek**
-
 UniqOne is a collection of beautiful, accessible and performant blog templates built with [Astro](https://astro.build) and [Markdoc](https://markdoc.dev).
 
-Check out the demo here - [UniqOne sleek template](https://UniqOne-sleek.netlify.app).
-
-## Sleek Template
+Check out the demo here - [UniqOne sleek template](https://uniqone.netlify.app).
 
 A beautiful, performant and accessible theme built with [Tailwind](https://tailwindcss.com).
 
@@ -39,12 +35,4 @@ Easy.
 
 `yarn build` will generate a static website in `dist` dir. You can host it with any static hosting. If you need a recommendation, check out [Netlify](netlify.com).
 
-## Credit
-
-Thanks to other templates that inspired this theme.
-
 - [Official Astro Blog template](https://github.com/withastro/astro/tree/main/examples/blog)
-
-## License
-
-MIT © [Dinesh Pandiyan](https://github.com/flexdinesh)
