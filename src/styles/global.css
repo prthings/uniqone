@@ -11,7 +11,7 @@
 @layer base {
 
     /* light theme */
-    .theme-sleek {
+    .uniqone {
         /* Tailwind orange-500 #f97316 */
         --color-primary-main: 125 180 64;
 
@@ -24,7 +24,7 @@
         /* Tailwind gray-500 #6b7280 */
         --color-text-muted: 107 114 128;
         /* Tailwind orange-500 #f97316 */
-        --color-text-link: 125 180 64;
+        --color-text-link: 81 219 169;
         /* black */
         --color-text-code: 0 0 0;
         /* black */
