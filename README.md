@@ -3,6 +3,7 @@
 UniqOne is a collection of beautiful, accessible and performant blog templates built with [Astro](https://astro.build) and [Markdoc](https://markdoc.dev).
 
 Check out the demo here - [UniqOne template](https://uniqone.netlify.app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/312cb1f6-af66-4f71-9a87-73c8da363888/deploy-status)](https://app.netlify.com/sites/uniqone/deploys)
 
 A beautiful, performant and accessible theme built with [Tailwind](https://tailwindcss.com).
 
